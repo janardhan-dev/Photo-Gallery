@@ -228,7 +228,7 @@ Contributions, bug reports, and suggestions are welcome:
 1. **Report a Bug:** Open an issue on the [GitHub Issues](https://github.com/janardhan-dev/Photo-Gallery/issues) page detailing the device model, Android version, and steps to reproduce.
 2. **Suggest Improvements:** Share feedback or propose new features through [GitHub Discussions or Issues](https://github.com/janardhan-dev/Photo-Gallery/issues).
 3. **Pull Requests:** Fork the repository, create your feature branch, test your changes thoroughly, and submit a pull request with a descriptive summary of your changes.
-
+4. **Join Our Telegram Community:** Connect with us, share feedback, and get updates in our [Telegram Group](https://t.me/Wallvance).
 ---
 
 ## Author
