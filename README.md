@@ -31,7 +31,7 @@
 
 ## About the App
 
-**Photo Gallery** is an open-source Android media gallery crafted with **Jetpack Compose** and **Material Design 3**. It combines a fluid, responsive user experience with a signature frosted-glass aesthetic powered by backdrop blur effects.
+**Photo Gallery** is an Android media gallery crafted with **Jetpack Compose** and **Material Design 3**. It combines a fluid, responsive user experience with a signature frosted-glass aesthetic powered by backdrop blur effects.
 
 Designed with personal privacy at its core, Photo Gallery operates entirely on-device without telemetry, cloud trackers, or mandatory online services. Users can browse, organize, edit, and safely store their memories with hardware-backed biometric security and sanitize EXIF metadata before sharing media with other applications.
 
